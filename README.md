@@ -3,6 +3,8 @@ Meu nome é Daniel
 
 - Estou estudando na Alura
 - Atualmente estou concluindo cursos de Programação
+- Estudo no 1° ano do ensino médio
+
 
 ### Você pode entrar em contato comigo 📫
 
